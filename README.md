@@ -77,6 +77,12 @@ The dataset includes:
 <img width="1561" height="733" alt="VISUALISATION AMP" src="https://github.com/user-attachments/assets/e2405258-2e83-4be0-ad9a-3de1039c388c" />
 
 
+### PIVOT TABLE VISUALS
 
+
+
+<img width="1233" height="733" alt="PIVOT_TABLE 1" src="https://github.com/user-attachments/assets/a2184cf6-b26a-4a0c-a3e5-a1bda9efe6c7" />
+
+<img width="1134" height="755" alt="PIVOT_TABLE 2" src="https://github.com/user-attachments/assets/5aa7e063-5581-4311-8a6d-65f380877d26" />
 
 
