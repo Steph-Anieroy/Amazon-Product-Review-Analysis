@@ -54,4 +54,29 @@ The dataset includes:
 * Review Title
 * Discount % < 50
 
+## KEY ANALYSIS
+### Discount Analysis
+* Investigates how product discounts relate to customer ratings and reviews.
+
+### Top Rated vs High Review Count Products
+* Identifies discrepancies between high ratings and low engagement.
+
+### Revenue Estimation
+* Calculates estimated revenue = Discounted Price × Review Count.
+
+### Review Threshold Filtering
+* Focuses on products with less than 1000 reviews to uncover underexposed items.
+
+### Category wise Performance
+* Compares categories in terms of popularity, pricing, and ratings.
+
+
+## DASHBOARD PREVIEW
+
+
+<img width="1561" height="733" alt="VISUALISATION AMP" src="https://github.com/user-attachments/assets/e2405258-2e83-4be0-ad9a-3de1039c388c" />
+
+
+
+
 
