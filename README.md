@@ -77,8 +77,6 @@ The dataset includes:
 <img width="1561" height="733" alt="VISUALISATION AMP" src="https://github.com/user-attachments/assets/e2405258-2e83-4be0-ad9a-3de1039c388c" />
 
 
-### PIVOT TABLE VISUALS
-
 
 ## KEY INSIGHT
 * Products with steep discounts often have higher ratings but fewer reviews.
