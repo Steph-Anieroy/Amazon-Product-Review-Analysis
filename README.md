@@ -88,10 +88,6 @@ The dataset includes:
 * Revenue is often concentrated in a few high-rated, moderately priced items.
 
 
-## WORK DONE
-
-[Amazon case study.xlsx](https://github.com/user-attachments/files/21322865/Amazon.case.study.xlsx)
-
 
 ## LICENSE
 MIT - Feel free to use as this is for educational purpose.
