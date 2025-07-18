@@ -80,9 +80,21 @@ The dataset includes:
 ### PIVOT TABLE VISUALS
 
 
+## KEY INSIGHT
+* Products with steep discounts often have higher ratings but fewer reviews.
 
-<img width="1233" height="733" alt="PIVOT_TABLE 1" src="https://github.com/user-attachments/assets/a2184cf6-b26a-4a0c-a3e5-a1bda9efe6c7" />
+* Certain categories are overpriced relative to their performance.
 
-<img width="1134" height="755" alt="PIVOT_TABLE 2" src="https://github.com/user-attachments/assets/5aa7e063-5581-4311-8a6d-65f380877d26" />
+* A significant number of products have under 1000 reviews—potential growth targets.
+
+* Revenue is often concentrated in a few high-rated, moderately priced items.
+
+
+
+## LICENSE
+MIT - Feel free to use as this is for educational purpose.
+
+
+
 
 
